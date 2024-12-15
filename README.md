@@ -86,8 +86,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact
 For any questions or suggestions, feel free to reach out:
 - **Author**: Ashwin Raj
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: astunk@my.bridgeport.edu
+- **GitHub**: [tunkashwinraj](https://github.com/tunkashwinraj)
 
 
 
